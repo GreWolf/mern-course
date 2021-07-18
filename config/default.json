@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "ggwolf",
+  "mongoUri": "mongodb+srv://gwolf:asdfghjkl123@cluster0.rviso.mongodb.net/app?retryWrites=true&w=majority"
+}
